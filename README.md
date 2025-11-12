@@ -1,4 +1,10 @@
 ## Hi there 👋
+![Image](https://github.com/MakBenson/MakBenson/blob/main/Under%20Construction.png)
+
+- I'm currently working on getting into Cloud Engineering with Azure and AWS. I currently have some experience with work, but I wanted to better understand it on my own.
+
+you can reach me at [My LinkedIn](https://www.linkedin.com/in/makbenson/)
+
 
 <!--
 **MakBenson/MakBenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
